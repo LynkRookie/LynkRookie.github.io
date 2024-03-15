@@ -8867,7 +8867,7 @@ nav ul li.toogle-side-nav:hover {
     border-bottom: 0;
     box-shadow: none!important
 }
-
+/* edicion de menu superior*/
 .brand-custom {
     position: fixed;
     color: #fff;
@@ -8877,7 +8877,8 @@ nav ul li.toogle-side-nav:hover {
     height: 64px;
     width: 240px;
     background-color: #aeea00;
-    z-index: 998
+    
+
 }
 
 .brand-custom img {
