@@ -8870,14 +8870,15 @@ nav ul li.toogle-side-nav:hover {
 /* edicion de menu superior*/
 .brand-custom {
     position: fixed;
-    color: #fff;
+  /*  color: #fff;
     display: block;
     font-size: 1.8rem;
     padding: 6px;
     height: 64px;
     width: 240px;
     background-color: #aeea00;
-    
+    */
+    z-index: 998;
 
 }
 
