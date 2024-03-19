@@ -2524,7 +2524,8 @@ td,th {
 
 .secondary-content {
     float: right;
-    color: #546e7a
+    color: #546e7a;
+    margin-top: -39px;
 }
 
 .collapsible .collection {
@@ -8558,7 +8559,8 @@ nav.flat .breadcrumb:last-child {
 
 
 .secondary-cont {
-    color: blue
+    color: blue;
+    margin-left: 204px;
 }
 .secondary-content {
     color: white
@@ -9284,6 +9286,7 @@ span.badge.dot:after {
     border-radius: 10px;
     color: white;
     background: linear-gradient(90deg, rgba(16,43,87,0.8403010862548144) 2%, rgba(45,41,41,1) 86%);
+    padding-bottom: 0.1px;
 }
 
 #tasks .collection.with-header .collection-item span.badge {
