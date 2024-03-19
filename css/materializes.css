@@ -2522,6 +2522,11 @@ td,th {
     padding-left: 72px
 }
 
+.secondary-cont {
+    float: right;
+    color: #546e7a;
+    margin-top: -39px;
+}
 .secondary-content {
     float: right;
     color: #546e7a;
