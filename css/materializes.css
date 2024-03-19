@@ -9283,7 +9283,7 @@ span.badge.dot:after {
 }
 
 #tasks .collection.with-header .collection-item span.badge {
-    line-height: 0;
+    
     position: static;
     float: none;
     margin-left: 0
