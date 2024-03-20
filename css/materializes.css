@@ -8440,6 +8440,7 @@ main {
     padding: 3% 0 0 240px;
     background:linear-gradient(324deg, rgb(155 78 0 / 86%) 6%, rgb(15 72 66) 89%);
     margin-top: -64px;
+    margin-bottom: 50px;
 }
 
 @media only screen and (max-width: 992px) {
