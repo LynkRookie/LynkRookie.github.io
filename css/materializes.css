@@ -3764,10 +3764,12 @@ nav ul a span.badge {
 
 nav {
     color: #fff;
-    background-color: #aeea00;
-    width: 100%;
+    background: transparent;
+    width: 8%;
     height: 56px;
-    line-height: 56px
+    line-height: 56px;
+    left: 92%;
+    border-radius: 15%
 }
 
 nav.nav-extended {
@@ -8437,7 +8439,7 @@ main {
     min-height: 100%;
     padding: 3% 0 0 240px;
     background:linear-gradient(324deg, rgb(155 78 0 / 86%) 6%, rgb(15 72 66) 89%);
-
+    margin-top: -64px;
 }
 
 @media only screen and (max-width: 992px) {
